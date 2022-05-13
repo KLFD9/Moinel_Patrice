@@ -1,13 +1,13 @@
-<div align="center">
-  <a href="https://www.behance.net/mirosproject">
-    <img src="https://media.discordapp.net/attachments/379376488878702593/974682425466695731/banner_logo_KLFD.png" alt="Logo" width="100%" height="auto">
-  </a></div>
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CMaster%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 
 # Hi there, I'm Patrice - aka [Kiki LeFada] 👋 
 
 <div align="center">
-  <a href="#">
+  <a href="https://www.behance.net/mirosproject">
     <img src="https://media.discordapp.net/attachments/379376488878702593/974683686702284800/logo_klfd.png" alt="Logo" width="80" height="auto">
   </a>
 
