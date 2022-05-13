@@ -1,8 +1,14 @@
+<div align="center">
+  <a href="https://www.behance.net/mirosproject">
+    <img src="https://media.discordapp.net/attachments/379376488878702593/974682425466695731/banner_logo_KLFD.png" alt="Logo" width="100%" height="auto">
+  </a></div>
+
+
 # Hi there, I'm Patrice - aka [Kiki LeFada] 👋 
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="#">
+    <img src="https://media.discordapp.net/attachments/379376488878702593/974683686702284800/logo_klfd.png" alt="Logo" width="80" height="auto">
   </a>
 
   <h3 align="center">KLFD9 Projects</h3>
@@ -17,11 +23,12 @@
 ## I'm a Husband, Father, Student Developer, and Senior Graphic Designer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other creative people
 - 🥅 2022 Goals: Learn more about Web developpement
 - ⚡ Fun fact: I love to win against my son in video games
 - 😻 Check out my portfolio: [Beahance](https://www.behance.net/mirosproject)
 
+---
 
 ### Languages, Tools and Softwares:
 
@@ -42,6 +49,7 @@
 <br />
 <br />
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
