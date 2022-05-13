@@ -27,6 +27,7 @@
 - 🥅 2022 Goals: Learn more about Web developpement
 - ⚡ Fun fact: I love to win against my son in video games
 - 😻 Check out my portfolio: [Beahance](https://www.behance.net/mirosproject)
+- 👨‍🏫 Instructor 2022: [Michel Tissier](https://github.com/creadev-ninja)
 
 ---
 
