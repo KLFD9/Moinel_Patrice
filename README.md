@@ -58,3 +58,9 @@
   <img align="left" alt="KLFD9 Github Stats" src="https://github-readme-stats.vercel.app/api?username=klfd9&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+  <div align="center">
+  <a href="#">
+    <img src="https://media.discordapp.net/attachments/379376488878702593/752653951001821284/banner_twitch.png" alt="Banner Moinel Patrice" width="100%" height="auto">
+  </a></div>
+
